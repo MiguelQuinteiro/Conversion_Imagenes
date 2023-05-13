@@ -1,0 +1,29 @@
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.exe
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.pdb
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.xml
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.frmConversionImagenes.resources
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.Resources.resources
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.vbproj.GenerateResource.Cache
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.exe
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.xml
+C:\Users\Miguel Angel\documents\visual studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.pdb
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.exe
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.xml
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.pdb
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.exe
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.pdb
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.xml
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.frmConversionImagenes.resources
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.Resources.resources
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Miguel\Documents\Visual Studio 2010\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.exe
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.xml
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.pdb
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.exe
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.pdb
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\bin\Debug\proConversionImagenes.xml
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.frmConversionImagenes.resources
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.Resources.resources
+D:\Respaldpo PENDRIVE\Projects\proConversionImagenes\proConversionImagenes\obj\x86\Debug\proConversionImagenes.vbproj.GenerateResource.Cache
